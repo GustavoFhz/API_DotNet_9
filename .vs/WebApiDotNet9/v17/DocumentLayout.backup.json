@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\WebApiDotNet9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E060DB4-50F1-443A-87BA-31A8CEAF5249}|WebApiDotNet9\\WebApiDotNet9.csproj|c:\\users\\gusta\\onedrive\\\u00E1rea de trabalho\\webapidotnet9\\webapidotnet9\\dto\\usuario\\usuariocriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E060DB4-50F1-443A-87BA-31A8CEAF5249}|WebApiDotNet9\\WebApiDotNet9.csproj|solutionrelative:webapidotnet9\\dto\\usuario\\usuariocriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E060DB4-50F1-443A-87BA-31A8CEAF5249}|WebApiDotNet9\\WebApiDotNet9.csproj|c:\\users\\gusta\\onedrive\\\u00E1rea de trabalho\\webapidotnet9\\webapidotnet9\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E060DB4-50F1-443A-87BA-31A8CEAF5249}|WebApiDotNet9\\WebApiDotNet9.csproj|solutionrelative:webapidotnet9\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioCriacaoDto.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\WebApiDotNet9\\WebApiDotNet9\\Dto\\Usuario\\UsuarioCriacaoDto.cs",
+              "RelativeDocumentMoniker": "WebApiDotNet9\\Dto\\Usuario\\UsuarioCriacaoDto.cs",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\WebApiDotNet9\\WebApiDotNet9\\Dto\\Usuario\\UsuarioCriacaoDto.cs*",
+              "RelativeToolTip": "WebApiDotNet9\\Dto\\Usuario\\UsuarioCriacaoDto.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T21:55:33.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\WebApiDotNet9\\WebApiDotNet9\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApiDotNet9\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\WebApiDotNet9\\WebApiDotNet9\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApiDotNet9\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T21:54:05.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
