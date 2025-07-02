@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\WebApiDotNet9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E060DB4-50F1-443A-87BA-31A8CEAF5249}|WebApiDotNet9\\WebApiDotNet9.csproj|c:\\users\\gusta\\onedrive\\\u00E1rea de trabalho\\webapidotnet9\\webapidotnet9\\dto\\usuario\\usuariocriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E060DB4-50F1-443A-87BA-31A8CEAF5249}|WebApiDotNet9\\WebApiDotNet9.csproj|solutionrelative:webapidotnet9\\dto\\usuario\\usuariocriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E060DB4-50F1-443A-87BA-31A8CEAF5249}|WebApiDotNet9\\WebApiDotNet9.csproj|c:\\users\\gusta\\onedrive\\\u00E1rea de trabalho\\webapidotnet9\\webapidotnet9\\services\\senha\\senhaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E060DB4-50F1-443A-87BA-31A8CEAF5249}|WebApiDotNet9\\WebApiDotNet9.csproj|solutionrelative:webapidotnet9\\services\\senha\\senhaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E060DB4-50F1-443A-87BA-31A8CEAF5249}|WebApiDotNet9\\WebApiDotNet9.csproj|c:\\users\\gusta\\onedrive\\\u00E1rea de trabalho\\webapidotnet9\\webapidotnet9\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8E060DB4-50F1-443A-87BA-31A8CEAF5249}|WebApiDotNet9\\WebApiDotNet9.csproj|solutionrelative:webapidotnet9\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8E060DB4-50F1-443A-87BA-31A8CEAF5249}|WebApiDotNet9\\WebApiDotNet9.csproj|c:\\users\\gusta\\onedrive\\\u00E1rea de trabalho\\webapidotnet9\\webapidotnet9\\services\\senha\\isenhainterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E060DB4-50F1-443A-87BA-31A8CEAF5249}|WebApiDotNet9\\WebApiDotNet9.csproj|solutionrelative:webapidotnet9\\services\\senha\\isenhainterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsuarioCriacaoDto.cs",
-              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\WebApiDotNet9\\WebApiDotNet9\\Dto\\Usuario\\UsuarioCriacaoDto.cs",
-              "RelativeDocumentMoniker": "WebApiDotNet9\\Dto\\Usuario\\UsuarioCriacaoDto.cs",
-              "ToolTip": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\WebApiDotNet9\\WebApiDotNet9\\Dto\\Usuario\\UsuarioCriacaoDto.cs*",
-              "RelativeToolTip": "WebApiDotNet9\\Dto\\Usuario\\UsuarioCriacaoDto.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBAAAAApAAAAAAAAAA==",
+              "Title": "SenhaService.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\WebApiDotNet9\\WebApiDotNet9\\Services\\Senha\\SenhaService.cs",
+              "RelativeDocumentMoniker": "WebApiDotNet9\\Services\\Senha\\SenhaService.cs",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\WebApiDotNet9\\WebApiDotNet9\\Services\\Senha\\SenhaService.cs",
+              "RelativeToolTip": "WebApiDotNet9\\Services\\Senha\\SenhaService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T21:55:33.749Z",
+              "WhenOpened": "2025-07-02T20:35:43.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\WebApiDotNet9\\WebApiDotNet9\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "WebApiDotNet9\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\WebApiDotNet9\\WebApiDotNet9\\Properties\\launchSettings.json",
-              "RelativeToolTip": "WebApiDotNet9\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-26T21:54:05.062Z",
+              "Title": "ISenhaInterface.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\WebApiDotNet9\\WebApiDotNet9\\Services\\Senha\\ISenhaInterface.cs",
+              "RelativeDocumentMoniker": "WebApiDotNet9\\Services\\Senha\\ISenhaInterface.cs",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\WebApiDotNet9\\WebApiDotNet9\\Services\\Senha\\ISenhaInterface.cs",
+              "RelativeToolTip": "WebApiDotNet9\\Services\\Senha\\ISenhaInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T20:35:41.804Z",
               "EditorCaption": ""
             }
           ]

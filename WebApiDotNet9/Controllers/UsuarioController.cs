@@ -1,11 +1,14 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using WebApiDotNet9.Dto.Usuario;
 using WebApiDotNet9.Services.Usuario;
 
 namespace WebApiDotNet9.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class UsuarioController : ControllerBase
     {
         private readonly IUsuarioInterface _usuarioInterface;
@@ -32,6 +35,13 @@ namespace WebApiDotNet9.Controllers
         public async Task<IActionResult> RemoverUsuario(int id)
         {
             var usuario = await _usuarioInterface.RemoverUsuario(id);
+            return Ok(usuario);
+        }
+
+        [HttpPut]
+        public async Task<IActionResult> EditarUsuario(UsuarioEdicaoDto usuarioEdicaoDto)
+        {
+            var usuario = await _usuarioInterface.EditarUsuario(usuarioEdicaoDto);
             return Ok(usuario);
         }
 

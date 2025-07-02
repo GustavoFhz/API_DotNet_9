@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "WebApiDotNet9.Controllers.AuditoriaController",
+    "Method": "BuscarAuditorias",
+    "RelativePath": "api/Auditoria/Auditoria",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiDotNet9.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/Login/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioLoginDto",
+        "Type": "WebApiDotNet9.Dto.Login.UsuarioLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebApiDotNet9.Controllers.LoginController",
     "Method": "RegistrarUsuario",
     "RelativePath": "api/Login/Register",
@@ -23,6 +49,22 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiDotNet9.Controllers.UsuarioController",
+    "Method": "EditarUsuario",
+    "RelativePath": "api/Usuario",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioEdicaoDto",
+        "Type": "WebApiDotNet9.Dto.Usuario.UsuarioEdicaoDto",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {
